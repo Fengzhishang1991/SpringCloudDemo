@@ -9,6 +9,7 @@
         <module name="consul_client_demo" />
         <module name="euraka_client_demo" />
         <module name="euraka_server_demo" />
+        <module name="hystrix_demo" />
         <module name="ribbon_demo" />
         <module name="SpringCloudDemo" />
       </profile>
@@ -19,6 +20,7 @@
       <module name="consul_client_demo" options="-parameters" />
       <module name="euraka_client_demo" options="-parameters" />
       <module name="euraka_server_demo" options="-parameters" />
+      <module name="hystrix_demo" options="-parameters" />
       <module name="ribbon_demo" options="-parameters" />
     </option>
   </component>
